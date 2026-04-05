@@ -8,8 +8,7 @@
 # 4. Weight tracking over time
 # 5. Recent plan adjustment history
 #
-# This page is data-visualization heavy, satisfying the
-# university requirement for useful data visualization.
+# This page is data-visualization heavy.
 # =====================================================
 
 import streamlit as st
