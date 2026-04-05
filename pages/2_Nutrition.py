@@ -8,7 +8,7 @@
 # 4. Meal history with optional photos
 #
 # The photo upload stores images as base64 data URLs
-# in Supabase (suitable for a university project scope).
+# in Supabase.
 # =====================================================
 
 import streamlit as st
