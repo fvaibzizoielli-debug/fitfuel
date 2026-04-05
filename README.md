@@ -123,7 +123,7 @@ Feature importances from the trained model are used to determine which aspects o
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fitfuel.git
+   git clone https://github.com/fvaibzizoielli-debug/fitfuel.git
    cd fitfuel
    ```
 
